@@ -1,0 +1,30 @@
+
+
+footer{
+	background-color: #DB1F21;
+	width: 100%;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
+
+.navbar-nav {
+    flex-direction: row; 
+}
+
+.nav-item {
+    margin-right: 20px; 
+}
+
+
+.row h2{
+	text-align: center;
+}
+
+.row h4 {
+	text-align: center;
+}
+
+.row p{
+	text-align: center;
+}
